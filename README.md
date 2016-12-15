@@ -1,0 +1,2 @@
+# Mathematica
+Proyecto Mathematica Discretas
